@@ -1,0 +1,56 @@
+Anton V. Nikishaev
+
+E-mail: <me@lelf.me>, <anton.nik@gmail.com>;
+Jabber: <nik_n@jabber.ru>;
+Phone: +7905·301·3643, +7908·3677·123;
+Current location: Samara, Russia;
+
+Education
+
++ 2002­2009 -- M Sc in Mathematics, Samara State Technical University,
+  dept. of applied mathematics and computer science.
+
+  Subject of diploma paper -- Structural Model of Nonlinearly-Elastic
+  Material under the Complex Stress State Conditions in the Presence
+  of Creep.
+
+  Developed distributed and hand-optimized system for stress
+  calculation.
+
+Skills
+
++ Intrests & expertise: Functional programming,
+  	     	        Unix programming, including low-level;
+
++ Languages: C (C 11), C++, Haskell, Erlang, Perl, … familiar with many more;
+
++ Operating systems: GNU/Linux, everything BSD, Mac OS X.
+
+Work experience
+
++ 2005­2007 -- Samara State Technical University, system administrator;
+
++ 2007­present -- Samara State Technical University, software developer:
+  scientific calculations, C / Erlang / Haskell / Matlab / LaTeX
+
++ 2009­2011 -- WebZavod LLC, software developer:
+
+  typical small-to-medium size web development -- Perl, proprietary
+  CMS, MySQL, client-side programming;
+
+  "Skype killer" application development -- SIP/RTP audio and video
+  calls, mobile phone interoperability, SIP presences, twitter
+  support, OAuth.
+  Core: GNU/Linux to Windows cross-compiled C++, Haskell;
+  UI: HTML5 and JavaScript
+
++ 2011­present -- freelancing and consulting:
+
+  Wide variety of areas: from Haskell parsers to SVG animation.
+
+Extracurricular activities
+
++ https://github.com/llelf, https://hub.darcs.net/lelf
++ Small patches to GNU Libc, Glasgow Haskell Compiler, Emacs modes;
++ Awards in contests in mathematics, programming, science & astronomy.
+
